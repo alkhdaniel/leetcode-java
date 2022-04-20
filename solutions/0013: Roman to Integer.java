@@ -1,3 +1,4 @@
+//can also be done with a hashmap to get a O(n) time complexity.
 class Solution {
     public int romanToInt(String s) {
         int current, last, result;
